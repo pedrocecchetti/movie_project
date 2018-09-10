@@ -5,7 +5,7 @@ This is the first project of the series of projects related to **Udacity's Full 
 Web Developer Nanodegree Program.**  
 
 <p align="center">
-  <img src="./readme/screenshot.png">
+  <img src="./readme/screenshot1.png">
 </p>
 
 In this project, in the file *movies.py* I created some classes to use in the project. The classes: Video, Movie and Series. If you want to understande more about the classes you just need to access its docstrings.  
