@@ -109,4 +109,4 @@ class Series(Video):
         self.num_of_seasons = num_of_seasons
 
 
-print(Video.__doc__)
+

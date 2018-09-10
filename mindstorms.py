@@ -1,7 +1,7 @@
 import movies
 import fresh_tomatoes
 
-#Creating the instances of Movie class 
+# Creating the instances of Movie class 
 
 avatar = movies.Movie("Avatar", 162,
                       "https://www.youtube.com/watch?v=5PSNL1qE6VY",
@@ -50,9 +50,9 @@ get_out = movies.Movie("Get Out", 104,
                         boiling point.""",
                         "https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SY1000_CR0,0,675,1000_AL_.jpg")
 
-#Creating movies Array
-movie_array = [avatar,moana,it,wall_e,get_out,the_conjuring]
+# Creating movies Array
+movie_array = [avatar, moana, it, wall_e, get_out, the_conjuring]
 
 
-#Running the code to open the HTML file with movies array
+# Running the code to open the HTML file with movies array
 fresh_tomatoes.open_movies_page(movie_array)
